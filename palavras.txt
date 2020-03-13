@@ -1,0 +1,7 @@
+melancia
+morango
+maça
+banana
+pera
+uva
+CARRO
